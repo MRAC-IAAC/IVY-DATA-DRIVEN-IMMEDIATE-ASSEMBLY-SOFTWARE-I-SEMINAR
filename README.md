@@ -5,7 +5,7 @@ Data Driven immediate Assembly is a project developed during the Software I Semi
 
 ### Design Approach & data collection:-
 This project focusses on design generation using sensible data, NDVI (Normal difference vegetation index) data of Barcelona was decided to be collected.
-![Workflor Target](doc/diagrams/Workflowtarget.jpg)
+![Workflow Target](doc/diagrams/Workflowtarget.jpg)
 
 ### Workflow- 
 The design consists of small components aggregating (using anemone) to create a final output.The components have male and female connectors to lock with each other. 
