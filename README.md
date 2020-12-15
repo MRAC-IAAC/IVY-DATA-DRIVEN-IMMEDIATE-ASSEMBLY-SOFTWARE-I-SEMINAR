@@ -18,12 +18,12 @@ The components were modified for better aggregation (connection), better astheti
 
 The upgraded components were tried with several logic of connection (with different number of receiving planes to create uniform aggregation in all direction).Below is the final output received.
 
-![FinalRender](./Doc/Finaloutput.jpg)
+![Final Render](./Doc/Finaloutput.jpg)
 
 Please note that, the implementation of NDVI data is done partial through this project till date and still has a lot of space for developments. 
 
 
-[ProjectBlog]( http://www.iaacblog.com/?post_type=program&p=106351&preview=true )
+[Project Blog](http://www.iaacblog.com/?post_type=program&p=106351&preview=true)
 
 ## Requirements:
 1. Rhino 5 or later.
