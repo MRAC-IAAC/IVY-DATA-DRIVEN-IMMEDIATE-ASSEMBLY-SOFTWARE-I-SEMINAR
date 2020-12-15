@@ -5,25 +5,25 @@ Data Driven immediate Assembly is a project developed during the Software I Semi
 
 ### Design Approach & data collection:-
 This project focusses on design generation using sensible data, NDVI (Normal difference vegetation index) data of Barcelona was decided to be collected.
-![Workflow Target](./Doc/Diagrams/Workflowtarget.jpg)
+![WorkflowTarget]( ./Doc/Workflowtarget.jpg )
 
 ### Workflow- 
 The design consists of small components aggregating (using anemone) to create a final output.The components have male and female connectors to lock with each other. 
 
-![Basic components](./Doc/Diagrams/Basiccomponents.jpg)
+![Basiccomponents]( ./Doc/Basiccomponents.jpg )
 
 The components were modified for better aggregation (connection), better asthetic, and to use the NDVI data collected (refer the blog for better reference)
 
-![Final upgraded components](./Doc/Diagrams/Upgradedcomponents.jpg)
+![Finalupgradedcomponents]( ./Doc/Upgradedcomponents.jpg )
 
 The upgraded components were tried with several logic of connection (with different number of receiving planes to create uniform aggregation in all direction).Below is the final output received.
 
-![Final Render](./Doc/Diagrams/Finaloutput.jpg)
+![FinalRender]( ./Doc/Diagrams/Finaloutput.jpg )
 
 Please note that, the implementation of NDVI data is done partial through this project till date and still has a lot of space for developments. 
 
 
-[Project Blog](http://www.iaacblog.com/?post_type=program&p=106351&preview=true)
+[ProjectBlog]( http://www.iaacblog.com/?post_type=program&p=106351&preview=true )
 
 ## Requirements:
 1. Rhino 5 or later.
@@ -37,11 +37,11 @@ After downloading all the required. you can open the rhino (3dm) file and grassh
  
     
 # References: 
-[Refeference link](https://opendata-ajuntament.barcelona.cat/en)
+[Refeference link]( https://opendata-ajuntament.barcelona.cat/en )
 
-[Refeference link](https://www.qgis.org/en/site/)
+[Refeference link]( https://www.qgis.org/en/site/ )
 
-[Refeference link](http://www.jeannouvel.com/en/)
+[Refeference link]( http://www.jeannouvel.com/en/ )
 
 IVY DATA-DRIVEN IMMEDIATE ASSEMBLY is a project of IaaC, Institute for Advanced Architecture of Catalonia. developed at **Master in Robotics and Advanced Construction** in 2020-2021/22 by:
 Students: **Arpan Mathe, Charng Shin Chen**
