@@ -5,20 +5,20 @@ Data Driven immediate Assembly is a project developed during the Software I Semi
 
 ### Design Approach & data collection:-
 This project focusses on design generation using sensible data, NDVI (Normal difference vegetation index) data of Barcelona was decided to be collected.
-![Workflow Target](./Doc/Workflowtarget.jpg)
+![Workflow Target](./Doc/Diagrams/Workflowtarget.jpg)
 
 ### Workflow- 
 The design consists of small components aggregating (using anemone) to create a final output.The components have male and female connectors to lock with each other. 
 
-![Basic components](./doc/Basiccomponents.jpg)
+![Basic components](./Doc/Diagrams/Basiccomponents.jpg)
 
 The components were modified for better aggregation (connection), better asthetic, and to use the NDVI data collected (refer the blog for better reference)
 
-![Final upgraded components](./doc/Upgradedcomponents.jpg)
+![Final upgraded components](./Doc/Diagrams/Upgradedcomponents.jpg)
 
 The upgraded components were tried with several logic of connection (with different number of receiving planes to create uniform aggregation in all direction).Below is the final output received.
 
-![Final Render](./doc/Finaloutput.jpg)
+![Final Render](./Doc/Diagrams/Finaloutput.jpg)
 
 Please note that, the implementation of NDVI data is done partial through this project till date and still has a lot of space for developments. 
 
